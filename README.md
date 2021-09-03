@@ -8,6 +8,6 @@ This is for ***Homebrewed*** Devices
 
 **2.** Download the provided TSI9.3dsx and put it into your */3ds* folder on your SD card. 
 
-**3.** Your done! You can go ahead and open TSI9 through Homebrew.
+**3.** You're done! You can go ahead and open TSI9 through Homebrew.
 
 https://www.johnodon.com
